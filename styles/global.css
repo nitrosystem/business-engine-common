@@ -1,0 +1,86 @@
+/* --------------------------------------------------------
+        Width Styles
+    -----------------------------------------------------------*/
+
+.w1-rem {
+  width: 1rem;
+}
+
+.w2-rem {
+  width: 2rem;
+}
+
+.w3-rem {
+  width: 3rem;
+}
+
+.w4-rem {
+  width: 4rem;
+}
+
+.w5-rem {
+  width: 5rem;
+}
+
+.w6-rem {
+  width: 6rem;
+}
+
+.w7-rem {
+  width: 7rem;
+}
+
+.w8-rem {
+  width: 8rem;
+}
+
+.w9-rem {
+  width: 9rem;
+}
+
+.w10-rem {
+  width: 10rem;
+}
+
+.w-fit {
+  width: fit-content;
+}
+
+/* --------------------------------------------------------
+        Font  Styles
+    -----------------------------------------------------------*/
+.fs1-rem {
+  font-size: 1rem;
+}
+
+.fs2-rem {
+  font-size: 2rem;
+}
+
+/* --------------------------------------------------------
+        Icon Font  Styles
+    -----------------------------------------------------------*/
+.b-icon-1 {
+  font-size: 1rem;
+}
+
+.b-icon-2 {
+  font-size: 2rem;
+}
+
+.b-hide-elem {
+  opacity: 0 !important;
+  filter: alpha(opacity=0) !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: block !important;
+}
+
+.b-clean {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
